@@ -1,7 +1,7 @@
 body{
 font-family: arial, sans-serif;
 }
-table,th,tr{
+table,th,tr,td{
 border:none;
 outline:none;
 text-align:center;
