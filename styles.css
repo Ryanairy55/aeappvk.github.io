@@ -1,7 +1,7 @@
 body{
 font-family: arial, sans-serif;
 }
-table,tr,td{
+*{
 border:none;
 }
 tr:hover{
