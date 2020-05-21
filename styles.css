@@ -2,13 +2,25 @@ body{
 font-family: arial, sans-serif;
 margin:0;
 font-size:15px;
+outline:none;
 }
 table,th,tr,td{
 border:none;
 outline:none;
-text-align:center;
+text-align:left;
 margin:0;
 border-spacing: 0;
+}
+td{
+border-right: 1px solid #ccc;
+padding: 10px;
+}
+tr td:last-child{
+border:none;
+}
+th{
+padding: 15px 10px;
+border-bottom: 1px solid #000;
 }
 table{
 width:90%;
@@ -20,4 +32,8 @@ background: #dae2ea;
 .maintr{
 border:none;
 outline:none;
+}
+a{
+color:#2a5885;
+text-decoration:none;
 }
