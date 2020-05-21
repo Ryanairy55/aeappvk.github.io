@@ -6,6 +6,10 @@ border:none;
 outline:none;
 text-align:center;
 }
-tr:hover{
+.maintr:hover{
 background: #dce1e8;
+}
+.maintr{
+border:none;
+outline:none;
 }
