@@ -1,8 +1,10 @@
 body{
 font-family: arial, sans-serif;
 }
-*{
+table,th,tr{
 border:none;
+outline:none;
+text-align:center;
 }
 tr:hover{
 background: #dce1e8;
