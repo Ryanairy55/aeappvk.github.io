@@ -1,12 +1,6 @@
-table{
-border:none;
-}
-tr{
+table,tr,td{
 border:none;
 }
 tr:hover{
 background: #dce1e8;
-}
-td{
-border:none;
 }
