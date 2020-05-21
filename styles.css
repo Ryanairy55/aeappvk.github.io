@@ -10,6 +10,10 @@ text-align:center;
 margin:0;
 border-spacing: 0;
 }
+table{
+width:90%;
+margin: 0 auto;
+}
 .maintr:hover{
 background: #dae2ea;
 }
